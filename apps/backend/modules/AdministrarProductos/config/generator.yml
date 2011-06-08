@@ -23,6 +23,7 @@ generator:
         display: [nombre]
       form:    ~
       edit:    
+        title: Editar profucto "%%nombre%%"
         actions:
           _delete: ~
           _list: ~
