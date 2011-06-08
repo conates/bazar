@@ -1,0 +1,7 @@
+Producto:
+  columns:
+    id:		    { type: integer(8), primary: true, notnull: true, autoincrement: true }
+    nombre:         { type: string(45), notnull: true, unique: true}
+    unidad:         { type: enum, values: ['centrimetro','gramo','metro','unidad','kilo'], notnull: true }
+    precio_compra:  { type: integer(8) }
+    precio_venta:   { type: integer(8) }

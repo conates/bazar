@@ -1,0 +1,8 @@
+#sfGuardUser:
+#  User_admin:
+#    first_name:     olga
+#    last_name:      salgado
+#    email_address:  olga@gmail.com
+#    username:       admin
+#    password:       admin
+#    is_super_admin: true

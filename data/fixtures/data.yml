@@ -1,0 +1,535 @@
+Producto:
+  Producto_1:
+    nombre: 'ampolleta maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_2:
+    nombre: 'abanico madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_3:
+    nombre: 'abanico bordado'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_4:
+    nombre: 'algodon sintetico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_5:
+    nombre: 'abanico blondas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_6:
+    nombre: 'aceite maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_7:
+    nombre: 'aceite maquina singer'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_8:
+    nombre: 'afinador de guitarra'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_9:
+    nombre: 'agujas coser a mano'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_10:
+    nombre: 'agujas de maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_11:
+    nombre: 'agujas para ciegos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_12:
+    nombre: 'agujas bordar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_13:
+    nombre: 'aguja rof'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_14:
+    nombre: 'aguja saco capotero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_15:
+    nombre: 'aguja ruso'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_16:
+    nombre: 'aguja artesanal'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_17:
+    nombre: 'aguja coser cuero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_18:
+    nombre: 'aguja maquina overloock'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_19:
+    nombre: 'cinta razo 07'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_20:
+    nombre: 'pasamaneria tapiseria'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '300'
+  Producto_21:
+    nombre: 'pasamaneria trensada delgada'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '300'
+  Producto_22:
+    nombre: 'sabanas 2 plazas'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '12500'
+  Producto_23:
+    nombre: 'frasada 1 1/2'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '7800'
+  Producto_24:
+    nombre: 'frasada 2 plazas'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '8300'
+  Producto_25:
+    nombre: hule
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_26:
+    nombre: 'ampolletas maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '650'
+  Producto_27:
+    nombre: 'agujas overloock'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_28:
+    nombre: 'bastidor plastico diametro 18'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1700'
+  Producto_29:
+    nombre: 'bastidor #12 madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1250'
+  Producto_30:
+    nombre: 'bastidor plastico diametro 15'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1580'
+  Producto_31:
+    nombre: 'bastidor plastico #8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2200'
+  Producto_32:
+    nombre: 'anilina vela'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_33:
+    nombre: 'anilina montblanc'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1380'
+  Producto_34:
+    nombre: 'anilina yacolor'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '790'
+  Producto_35:
+    nombre: 'alicate curt/redon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2200'
+  Producto_36:
+    nombre: 'alfileres rodelas'
+    unidad: centrimetro
+    precio_compra: null
+    precio_venta: '300'
+  Producto_37:
+    nombre: 'alfileres colores grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_38:
+    nombre: 'alfileres colores chicos caja'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_39:
+    nombre: 'barniz al agua'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1360'
+  Producto_40:
+    nombre: 'aceite linaza'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1360'
+  Producto_41:
+    nombre: 'betun de judea'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1320'
+  Producto_42:
+    nombre: 'billetera dama'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2500'
+  Producto_43:
+    nombre: 'billetera varon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2500'
+  Producto_44:
+    nombre: acoclip
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_45:
+    nombre: archivadores
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '980'
+  Producto_46:
+    nombre: 'block medium 99 20 hojas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '750'
+  Producto_47:
+    nombre: 'block prepicado'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_48:
+    nombre: 'block prepicado colon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1050'
+  Producto_49:
+    nombre: 'bolsa de palo brocheta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_50:
+    nombre: 'calco negro'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_51:
+    nombre: 'carpeta arte color cartulina corrugado'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_52:
+    nombre: 'carpeta arte color cartulina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '830'
+  Producto_53:
+    nombre: 'carpeta goma eva'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '900'
+  Producto_54:
+    nombre: carpeta
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_55:
+    nombre: 'cinta embalaje'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '380'
+  Producto_56:
+    nombre: cintela
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_57:
+    nombre: 'clip 50 unidades'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_58:
+    nombre: 'cola fria 120 '
+    unidad: gramo
+    precio_compra: null
+    precio_venta: '480'
+  Producto_59:
+    nombre: 'cola fria 225'
+    unidad: gramo
+    precio_compra: null
+    precio_venta: '800'
+  Producto_60:
+    nombre: corchetera
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3350'
+  Producto_61:
+    nombre: 'corchete 26/6 1000 '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '280'
+  Producto_62:
+    nombre: 'corchete 26/6 5000'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '680'
+  Producto_63:
+    nombre: 'cheques practica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_64:
+    nombre: 'forro cuaderno dif colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_65:
+    nombre: 'forro libro dif colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '190'
+  Producto_66:
+    nombre: 'funda transparente carta- oficio'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '40'
+  Producto_67:
+    nombre: 'cuaderno collage caligrafia vertical'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_68:
+    nombre: 'cuchillo cartonero chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_69:
+    nombre: 'cuchillo cartonero grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '680'
+  Producto_70:
+    nombre: globos
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_71:
+    nombre: 'goma factis 20'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_72:
+    nombre: 'goma factis 36'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_73:
+    nombre: 'goma pelikan'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_74:
+    nombre: greda
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '460'
+  Producto_75:
+    nombre: 'hoja carta dif colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '20'
+  Producto_76:
+    nombre: 'jabon liquido'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_77:
+    nombre: 'lapices de cera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_78:
+    nombre: 'lapices de colores cortos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '690'
+  Producto_79:
+    nombre: 'lapices de colores largos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '690'
+  Producto_80:
+    nombre: 'lapices scripto'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '620'
+  Producto_81:
+    nombre: 'lapiz corrector'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '490'
+  Producto_82:
+    nombre: 'lapiz grafito faber castell'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_83:
+    nombre: 'lapiz pasta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_84:
+    nombre: 'libreta de comunicaciones'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '140'
+  Producto_85:
+    nombre: 'libro de venta diarias'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2600'
+  Producto_86:
+    nombre: 'minas 0.5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '130'
+  Producto_87:
+    nombre: muselina
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '400'
+  Producto_88:
+    nombre: 'palos de helados'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_89:
+    nombre: 'paño aseo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '460'
+  Producto_90:
+    nombre: 'papel construccion'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '60'
+  Producto_91:
+    nombre: 'papel lustre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_92:
+    nombre: pegote
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '560'
+  Producto_93:
+    nombre: 'pegote ancho'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1340'
+  Producto_94:
+    nombre: perforadora
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2490'
+  Producto_95:
+    nombre: 'pistola silicona'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_96:
+    nombre: 'pistola silicona g'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2490'
+  Producto_97:
+    nombre: 'plumones permanentes'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_98:
+    nombre: 'plumones pizarras'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '380'
+  Producto_99:
+    nombre: 'porta mina '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_100:
+    nombre: 'regla 20 cms'
+    unidad: centrimetro
+    precio_compra: null
+    precio_venta: '190'
+  Producto_101:
+    nombre: 'regla 40 cms'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '270'
+  Producto_102:
+    nombre: 'redma carta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_103:
+    nombre: 'redma oficio'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2300'
+  Producto_104:
+    nombre: 'sacapunta metalico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+sfGuardUser:
+  sfGuardUser_1:
+    first_name: olga
+    last_name: salgado
+    email_address: olgasalgado.v@gmail.com
+    username: olgasalgado
+    algorithm: sha1
+    salt: 15148
+    password: 15148
+    is_active: true
+    is_super_admin: true
+    last_login: '2011-06-06 17:28:15'
+    created_at: '2011-06-04 17:31:43'
+    updated_at: '2011-06-06 17:28:15'
