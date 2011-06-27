@@ -1,0 +1,3072 @@
+Producto:
+  Producto_1:
+    nombre: 'ampolleta maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '650'
+  Producto_2:
+    nombre: 'abanico madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_3:
+    nombre: 'abanico bordado'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_4:
+    nombre: 'algodon sintetico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3600'
+  Producto_5:
+    nombre: 'abanico blondas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_6:
+    nombre: 'aceite maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '620'
+  Producto_7:
+    nombre: 'aceite maquina singer'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_8:
+    nombre: 'afinador de guitarra'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_9:
+    nombre: 'agujas coser a mano'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '20'
+  Producto_10:
+    nombre: 'agujas de maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_11:
+    nombre: 'agujas para ciegos sobre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_12:
+    nombre: 'agujas bordar sobre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_13:
+    nombre: 'aguja sof unidad'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_14:
+    nombre: 'aguja saco capotero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_15:
+    nombre: 'aguja ruso'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_16:
+    nombre: 'aguja artesanal'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_17:
+    nombre: 'aguja coser cuero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1700'
+  Producto_18:
+    nombre: 'aguja maquina overloock'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '190'
+  Producto_19:
+    nombre: 'cinta razo 07'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_20:
+    nombre: 'pasamaneria tapiseria'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '300'
+  Producto_21:
+    nombre: 'pasamaneria trensada delgada'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '300'
+  Producto_22:
+    nombre: 'sabanas 2 plazas'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '12500'
+  Producto_23:
+    nombre: 'frasada 1 1/2'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '7800'
+  Producto_24:
+    nombre: 'frasada 2 plazas'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '8300'
+  Producto_25:
+    nombre: hule
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_26:
+    nombre: 'ampolletas maquina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '650'
+  Producto_27:
+    nombre: 'agujas overloock'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: null
+  Producto_28:
+    nombre: 'bastidor plastico diametro 18'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1700'
+  Producto_29:
+    nombre: 'bastidor #12 madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1250'
+  Producto_30:
+    nombre: 'bastidor plastico diametro 15'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1580'
+  Producto_31:
+    nombre: 'bastidor plastico #8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2200'
+  Producto_32:
+    nombre: 'anilina vela'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_33:
+    nombre: 'anilina montblanc'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1380'
+  Producto_34:
+    nombre: 'anilina yacolor'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '790'
+  Producto_35:
+    nombre: 'alicate curt/redon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2200'
+  Producto_36:
+    nombre: 'alfileres rodelas'
+    unidad: centrimetro
+    precio_compra: null
+    precio_venta: '300'
+  Producto_37:
+    nombre: 'alfileres colores grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_38:
+    nombre: 'alfileres colores chicos caja'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_39:
+    nombre: 'barniz al agua'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1360'
+  Producto_40:
+    nombre: 'aceite linaza'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1360'
+  Producto_41:
+    nombre: 'betun de judea'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1320'
+  Producto_42:
+    nombre: 'billetera dama'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2500'
+  Producto_43:
+    nombre: 'billetera varon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2500'
+  Producto_44:
+    nombre: acoclip
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_45:
+    nombre: archivadores
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '980'
+  Producto_46:
+    nombre: 'block medium 99 20 hojas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '750'
+  Producto_47:
+    nombre: 'block prepicado'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_48:
+    nombre: 'block prepicado colon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1050'
+  Producto_49:
+    nombre: 'bolsa de palo brocheta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_50:
+    nombre: 'calco negro'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_51:
+    nombre: 'carpeta arte color cartulina corrugado'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_52:
+    nombre: 'carpeta arte color cartulina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '830'
+  Producto_53:
+    nombre: 'carpeta goma eva'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '900'
+  Producto_54:
+    nombre: carpeta
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_55:
+    nombre: 'cinta embalaje'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '380'
+  Producto_56:
+    nombre: cintela
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_57:
+    nombre: 'clip 50 unidades'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_58:
+    nombre: 'cola fria 120 '
+    unidad: gramo
+    precio_compra: null
+    precio_venta: '480'
+  Producto_59:
+    nombre: 'cola fria 225'
+    unidad: gramo
+    precio_compra: null
+    precio_venta: '800'
+  Producto_60:
+    nombre: corchetera
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3350'
+  Producto_61:
+    nombre: 'corchete 26/6 1000 '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '280'
+  Producto_62:
+    nombre: 'corchete 26/6 5000'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '680'
+  Producto_63:
+    nombre: 'cheques practica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_64:
+    nombre: 'forro cuaderno dif colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_65:
+    nombre: 'forro libro dif colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '190'
+  Producto_66:
+    nombre: 'funda transparente carta- oficio'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '40'
+  Producto_67:
+    nombre: 'cuaderno collage caligrafia vertical'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_68:
+    nombre: 'cuchillo cartonero chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_69:
+    nombre: 'cuchillo cartonero grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '680'
+  Producto_70:
+    nombre: globos
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_71:
+    nombre: 'goma factis 20'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_72:
+    nombre: 'goma factis 36'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_73:
+    nombre: 'goma pelikan'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_74:
+    nombre: greda
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '460'
+  Producto_75:
+    nombre: 'hoja carta dif colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '20'
+  Producto_76:
+    nombre: 'jabon liquido'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_77:
+    nombre: 'lapices de cera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_78:
+    nombre: 'lapices de colores cortos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '690'
+  Producto_79:
+    nombre: 'lapices de colores largos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '690'
+  Producto_80:
+    nombre: 'lapices scripto'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '620'
+  Producto_81:
+    nombre: 'lapiz corrector'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '490'
+  Producto_82:
+    nombre: 'lapiz grafito faber castell'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_83:
+    nombre: 'lapiz pasta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_84:
+    nombre: 'libreta de comunicaciones'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '140'
+  Producto_85:
+    nombre: 'libro de venta diarias'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2600'
+  Producto_86:
+    nombre: 'minas 0.5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '130'
+  Producto_87:
+    nombre: muselina
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '400'
+  Producto_88:
+    nombre: 'palos de helados'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_89:
+    nombre: 'paño aseo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '460'
+  Producto_90:
+    nombre: 'papel construccion'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '60'
+  Producto_91:
+    nombre: 'papel lustre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_92:
+    nombre: pegote
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '560'
+  Producto_93:
+    nombre: 'pegote ancho'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1340'
+  Producto_94:
+    nombre: perforadora
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2490'
+  Producto_95:
+    nombre: 'pistola silicona'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_96:
+    nombre: 'pistola silicona g'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2490'
+  Producto_97:
+    nombre: 'plumones permanentes'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_98:
+    nombre: 'plumones pizarras'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '380'
+  Producto_99:
+    nombre: 'porta mina '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_100:
+    nombre: 'regla 20 cms'
+    unidad: centrimetro
+    precio_compra: null
+    precio_venta: '190'
+  Producto_101:
+    nombre: 'regla 40 cms'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '270'
+  Producto_102:
+    nombre: 'redma carta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_103:
+    nombre: 'redma oficio'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2300'
+  Producto_104:
+    nombre: 'sacapunta metalico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_105:
+    nombre: 'scocht chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_106:
+    nombre: 'silicona en barra'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_107:
+    nombre: 'silicona liquida 60cc'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '550'
+  Producto_108:
+    nombre: 'silicona liquida 30ml'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_109:
+    nombre: 'silicona liquida 100cc'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_110:
+    nombre: 'silicona liquida 250 grs'
+    unidad: gramo
+    precio_compra: null
+    precio_venta: '1680'
+  Producto_111:
+    nombre: 'sobre americano'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '20'
+  Producto_112:
+    nombre: 'sobre carta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '20'
+  Producto_113:
+    nombre: 'sobre oficio'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '60'
+  Producto_114:
+    nombre: 'sobres chicos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '20'
+  Producto_115:
+    nombre: 'stick fix 35 grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '720'
+  Producto_116:
+    nombre: 'tempera 12 colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '920'
+  Producto_117:
+    nombre: 'tijera escolar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '460'
+  Producto_118:
+    nombre: 'tijeras zic zac'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '520'
+  Producto_119:
+    nombre: 'papel volantin'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '70'
+  Producto_120:
+    nombre: 'cartulinas colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '120'
+  Producto_121:
+    nombre: 'cartulina metalica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '740'
+  Producto_122:
+    nombre: 'papel de regalo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_123:
+    nombre: 'papel craf grueso'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_124:
+    nombre: 'papel envolver'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_125:
+    nombre: 'cola fria kilo'
+    unidad: kilo
+    precio_compra: null
+    precio_venta: '3490'
+  Producto_126:
+    nombre: 'faja roja- blanca'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3800'
+  Producto_127:
+    nombre: 'fajin rojo-blanco'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2800'
+  Producto_128:
+    nombre: 'faja infantil'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4200'
+  Producto_129:
+    nombre: 'faja juvenil'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4800'
+  Producto_130:
+    nombre: 'chasquilla seda adulto'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7200'
+  Producto_131:
+    nombre: 'chasquilla infantil'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2900'
+  Producto_132:
+    nombre: 'chasquilla juvenil'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3700'
+  Producto_133:
+    nombre: 'chasquilla adulto'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4000'
+  Producto_134:
+    nombre: 'faja tricolor'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4200'
+  Producto_135:
+    nombre: 'zapato dama nº 34-35-36-37'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '26000'
+  Producto_136:
+    nombre: 'zapato varon nº 31'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '31000'
+  Producto_137:
+    nombre: 'sombrero huaso carton'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2500'
+  Producto_138:
+    nombre: 'sombrero huaso ala corta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '11500'
+  Producto_139:
+    nombre: 'sombrero huaso ala larga'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '18400'
+  Producto_140:
+    nombre: 'bandera bistrech 200x300 cms'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '12800'
+  Producto_141:
+    nombre: 'bandera bistrech 90x135 cms'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6200'
+  Producto_142:
+    nombre: 'bandera trevira 50x75 cms'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2900'
+  Producto_143:
+    nombre: 'bandera trevira 70x105 c ms'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3500'
+  Producto_144:
+    nombre: 'bandera trevira 90x135'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4800'
+  Producto_145:
+    nombre: 'manta huaso kinder'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8500'
+  Producto_146:
+    nombre: 'manta huaso juvenil'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '11500'
+  Producto_147:
+    nombre: 'manta huaso med. grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '12500'
+  Producto_148:
+    nombre: 'manta de huaso grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '12500'
+  Producto_149:
+    nombre: 'camisa Talla 2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3200'
+  Producto_150:
+    nombre: 'camisa Talla 4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3700'
+  Producto_151:
+    nombre: 'camisa Talla 6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3700'
+  Producto_152:
+    nombre: 'camisa Talla 8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3900'
+  Producto_153:
+    nombre: 'camisa Talla 10'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4600'
+  Producto_154:
+    nombre: 'camisa Talla 12'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4600'
+  Producto_155:
+    nombre: 'camisa Talla 14'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4600'
+  Producto_156:
+    nombre: 'camisa Talla 16'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4600'
+  Producto_157:
+    nombre: 'camisas talla grande 36-37-38-39-40'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4900'
+  Producto_158:
+    nombre: 'vestido Talla 4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7800'
+  Producto_159:
+    nombre: 'vestido Talla 6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7800'
+  Producto_160:
+    nombre: 'vestido Talla 8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8500'
+  Producto_161:
+    nombre: 'vestido Talla 10'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '9900'
+  Producto_162:
+    nombre: 'pantalones Talla 4-6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8000'
+  Producto_163:
+    nombre: 'pantalones Talla 8-10'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8900'
+  Producto_164:
+    nombre: 'pantalones Talla 12-14-16'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '11000'
+  Producto_165:
+    nombre: 'chaquetas Talla 4-6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8000'
+  Producto_166:
+    nombre: 'chaquetas Talla 8-10'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8900'
+  Producto_167:
+    nombre: 'chaquetas Talla 12-14-16'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '11000'
+  Producto_168:
+    nombre: 'porta sombrero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4980'
+  Producto_169:
+    nombre: arpillera
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1300'
+  Producto_170:
+    nombre: 'arpillera de colores'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '3200'
+  Producto_171:
+    nombre: bistrech
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_172:
+    nombre: 'crea cruda'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1700'
+  Producto_173:
+    nombre: piel
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8900'
+  Producto_174:
+    nombre: crepsatin
+    unidad: metro
+    precio_compra: null
+    precio_venta: '3600'
+  Producto_175:
+    nombre: cuadrille
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1300'
+  Producto_176:
+    nombre: 'entretela fusionada genero'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2300'
+  Producto_177:
+    nombre: 'entretela fusionada papel delgada'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '790'
+  Producto_178:
+    nombre: 'entretela fusionada papel mediana'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '890'
+  Producto_179:
+    nombre: 'entretela fusionada papel gruesa'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '990'
+  Producto_180:
+    nombre: esterilla
+    unidad: metro
+    precio_compra: null
+    precio_venta: '4500'
+  Producto_181:
+    nombre: forro
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_182:
+    nombre: 'gaza cristal'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '3400'
+  Producto_183:
+    nombre: 'gaza negra'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2300'
+  Producto_184:
+    nombre: napa
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1900'
+  Producto_185:
+    nombre: osnarbugo
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1600'
+  Producto_186:
+    nombre: 'panamina colores'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2950'
+  Producto_187:
+    nombre: 'pananamina blanca'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2300'
+  Producto_188:
+    nombre: 'piel blanca'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '17000'
+  Producto_189:
+    nombre: polar
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_190:
+    nombre: 'policron cuadrille parvulos'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '4200'
+  Producto_191:
+    nombre: 'policron parvulos'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '3500'
+  Producto_192:
+    nombre: 'popelina estampada folclor'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1600'
+  Producto_193:
+    nombre: 'popelina estampada navideña'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1600'
+  Producto_194:
+    nombre: razo
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1300'
+  Producto_195:
+    nombre: 'tela aida'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '5000'
+  Producto_196:
+    nombre: terciopelo
+    unidad: metro
+    precio_compra: null
+    precio_venta: '3500'
+  Producto_197:
+    nombre: TNT
+    unidad: metro
+    precio_compra: null
+    precio_venta: '700'
+  Producto_198:
+    nombre: trevira
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1400'
+  Producto_199:
+    nombre: tropical
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1700'
+  Producto_200:
+    nombre: tull
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1700'
+  Producto_201:
+    nombre: 'tull dorado'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_202:
+    nombre: 'tull o cancan'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1900'
+  Producto_203:
+    nombre: 'velo liso'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_204:
+    nombre: 'casimir liceo nuevo mundo'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '4500'
+  Producto_205:
+    nombre: cotele
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2400'
+  Producto_206:
+    nombre: 'mantel navideño'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2800'
+  Producto_207:
+    nombre: 'seda folclor'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2900'
+  Producto_208:
+    nombre: 'velo con basta'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2100'
+  Producto_209:
+    nombre: 'genero sabanas blanco-crudo'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2750'
+  Producto_210:
+    nombre: 'genero sabanas colores'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2500'
+  Producto_211:
+    nombre: 'muselina blanca rosada'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2900'
+  Producto_212:
+    nombre: broderi
+    unidad: metro
+    precio_compra: null
+    precio_venta: '3200'
+  Producto_213:
+    nombre: kochivo
+    unidad: metro
+    precio_compra: null
+    precio_venta: '3200'
+  Producto_214:
+    nombre: 'genero mantel navideño'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '2800'
+  Producto_215:
+    nombre: 'genero mantel'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1800'
+  Producto_216:
+    nombre: 'hilo gûtermann'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_217:
+    nombre: 'hilo cadena'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_218:
+    nombre: 'hilo petunia'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '420'
+  Producto_219:
+    nombre: 'hilo bordar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_220:
+    nombre: 'cono hilo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_221:
+    nombre: velcro
+    unidad: metro
+    precio_compra: null
+    precio_venta: '500'
+  Producto_222:
+    nombre: 'velcro ancho'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_223:
+    nombre: 'velcro con pegamento'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1800'
+  Producto_224:
+    nombre: 'boton concha perla grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_225:
+    nombre: orejeras
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_226:
+    nombre: 'pasa montaña'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_227:
+    nombre: paraguas
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4600'
+  Producto_228:
+    nombre: 'pintura genero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '550'
+  Producto_229:
+    nombre: decorart
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '550'
+  Producto_230:
+    nombre: 'pintura genero grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1450'
+  Producto_231:
+    nombre: 'katriens para manualidades'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_232:
+    nombre: 'Oleo 20ml'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '820'
+  Producto_233:
+    nombre: 'Oleo 50ml'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1650'
+  Producto_234:
+    nombre: Acrilicos
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '820'
+  Producto_235:
+    nombre: copaje
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_236:
+    nombre: 'hilo perle'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '290'
+  Producto_237:
+    nombre: 'hilo crochet blanco 50grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '490'
+  Producto_238:
+    nombre: 'hilo arbolito 100grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_239:
+    nombre: 'hilo arbolito etiqueta roja'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '890'
+  Producto_240:
+    nombre: 'hilo gost'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_241:
+    nombre: 'hilo arbolito colores'
+    unidad: centrimetro
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_242:
+    nombre: 'cono doñihue chico 150grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1600'
+  Producto_243:
+    nombre: 'cono doñihue grande 400grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3600'
+  Producto_244:
+    nombre: 'lanabel 100grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_245:
+    nombre: 'lanabel 50grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_246:
+    nombre: 'goma eva'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '80'
+  Producto_247:
+    nombre: 'goma eva diseños'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_248:
+    nombre: 'hilo hawai'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_249:
+    nombre: 'lana lamour'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1250'
+  Producto_250:
+    nombre: 'servilleta manualidades'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_251:
+    nombre: 'papel choclo'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_252:
+    nombre: 'lana varese'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1700'
+  Producto_253:
+    nombre: 'lana baby reginella 10grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1490'
+  Producto_254:
+    nombre: 'lana petunia floy fantasia 50grs'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_255:
+    nombre: 'lana petunia arrayan'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1300'
+  Producto_256:
+    nombre: 'panty chabela nylon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '780'
+  Producto_257:
+    nombre: 'guante adulto lana'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_258:
+    nombre: 'guante niño'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_259:
+    nombre: 'mitones niño'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_260:
+    nombre: 'aceite maquina selecta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '620'
+  Producto_261:
+    nombre: 'breteles transparentes'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_262:
+    nombre: 'tijera garza'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4500'
+  Producto_263:
+    nombre: 'tijeras scissors'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2200'
+  Producto_264:
+    nombre: 'tijeras ziz zac telas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '12200'
+  Producto_265:
+    nombre: 'tijeras peluqueria corte'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_266:
+    nombre: 'aguja bordado ruso'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_267:
+    nombre: 'tijera peluqueria entresacadora'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_268:
+    nombre: 'hilo elastico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_269:
+    nombre: 'descosedor grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '680'
+  Producto_270:
+    nombre: 'descosedor chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '370'
+  Producto_271:
+    nombre: enebrador
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_272:
+    nombre: 'dedal metalico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_273:
+    nombre: 'tijera curva'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_274:
+    nombre: lupas
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '380'
+  Producto_275:
+    nombre: 'tankas '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_276:
+    nombre: 'bolsita mostasilla'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_277:
+    nombre: 'bolsita escarchilla'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_278:
+    nombre: 'bolsita canutillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_279:
+    nombre: tapanudos
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_280:
+    nombre: 'tip top chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_281:
+    nombre: 'tip top mediano'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_282:
+    nombre: 'tip top grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_283:
+    nombre: 'bases para pinches grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_284:
+    nombre: 'base prendedor chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '80'
+  Producto_285:
+    nombre: 'crochet simple'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_286:
+    nombre: 'crochet doble'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '700'
+  Producto_287:
+    nombre: 'palillo redeondo nº 3.5mm'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '750'
+  Producto_288:
+    nombre: 'crochet metal grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '890'
+  Producto_289:
+    nombre: 'crochet madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '650'
+  Producto_290:
+    nombre: 'jockey umbrales del alba'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2500'
+  Producto_291:
+    nombre: 'buzo umbrales del alba talla 4-8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '15900'
+  Producto_292:
+    nombre: 'buzos umbrales del alba talla 10-16'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '16900'
+  Producto_293:
+    nombre: 'buzos umbrales del alba talla 4-8'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '15900'
+  Producto_294:
+    nombre: 'buzo umbrales adulto'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '17200'
+  Producto_295:
+    nombre: 'polera manga corta umbrales'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7200'
+  Producto_296:
+    nombre: 'polera manga larga umbrales'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7900'
+  Producto_297:
+    nombre: 'pantalon niña'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7900'
+  Producto_298:
+    nombre: 'pantalon niño'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7900'
+  Producto_299:
+    nombre: 'cotona umbrales talla 4-6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6000'
+  Producto_300:
+    nombre: 'cotona umbrales talla 8-12'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6200'
+  Producto_301:
+    nombre: 'cotona umbrales talla 14-16'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6400'
+  Producto_302:
+    nombre: 'delantal umbrales'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6900'
+  Producto_303:
+    nombre: 'chaleco umbral'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8500'
+  Producto_304:
+    nombre: 'polera umbral tallas S-M-L'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '9200'
+  Producto_305:
+    nombre: 'tira perla variedad colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_306:
+    nombre: 'gancho cortina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '30'
+  Producto_307:
+    nombre: 'cierre nylon 3 de 18cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_308:
+    nombre: 'cierre nylon 3 de 20cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '220'
+  Producto_309:
+    nombre: 'cierre nylon 3 de 25cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_310:
+    nombre: 'cierre nylon 3 de 30cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '280'
+  Producto_311:
+    nombre: 'cierre nylon 3 de 35cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_312:
+    nombre: 'cierre nylon 3 de 40cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_313:
+    nombre: 'cierre nylon 3 de 45cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '320'
+  Producto_314:
+    nombre: 'cierre nylon 3 de 50cmt'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_316:
+    nombre: 'cierre nylon 5 de 18cm'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '280'
+  Producto_317:
+    nombre: 'pincel almendrado nº 1'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '740'
+  Producto_318:
+    nombre: 'pincel almendrado nº 2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1250'
+  Producto_319:
+    nombre: 'pincel almendrado nº 4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1250'
+  Producto_320:
+    nombre: 'pincel almendrado nº4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1250'
+  Producto_321:
+    nombre: 'pincel almendrado nº 12'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3300'
+  Producto_322:
+    nombre: 'pincel biselado nº2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1890'
+  Producto_323:
+    nombre: 'pincel biselado nº4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1960'
+  Producto_324:
+    nombre: 'liner nº00-1'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1250'
+  Producto_325:
+    nombre: 'abanico nº2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1450'
+  Producto_326:
+    nombre: 'pincel abanico nº6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1690'
+  Producto_327:
+    nombre: 'pincel cerda almendrado nº4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '450'
+  Producto_328:
+    nombre: 'pincel cerda almendrado nº6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '450'
+  Producto_329:
+    nombre: 'merleto negro nº16'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '450'
+  Producto_330:
+    nombre: 'pincel merleto chato nº14'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '450'
+  Producto_331:
+    nombre: 'pincel merleto nº12'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_332:
+    nombre: 'pincel merleto nº10'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_333:
+    nombre: 'pincel merleto nº8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_334:
+    nombre: 'pincel merleto nº6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_335:
+    nombre: 'pincel merleto nº4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_336:
+    nombre: 'pincel merleto nº2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_337:
+    nombre: 'pincel merleto nº0'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_338:
+    nombre: 'pincel legua de gato'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_339:
+    nombre: 'pincel legua de gato nº14'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_340:
+    nombre: 'pincel lengua de gato nº12'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '400'
+  Producto_341:
+    nombre: 'pincel lengua de gato nº10-nº8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_342:
+    nombre: 'pincel lengua de gato nº6-nº4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_343:
+    nombre: 'pincel lengua de gato nº2-nº0'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_344:
+    nombre: 'pincel lengua de gato nº1/2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_345:
+    nombre: 'pincel legua de gato nº6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_346:
+    nombre: 'pincel lengua de gato nº1/4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_347:
+    nombre: 'pincel lengua de gato nº4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_348:
+    nombre: 'pincel redondo nº12'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_349:
+    nombre: 'pincel redondo nº10'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_350:
+    nombre: 'pincel redondo nº8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_351:
+    nombre: 'pincel redondo nº6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_352:
+    nombre: 'pincel redondo nº 5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_353:
+    nombre: 'pincel redondo nº4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_354:
+    nombre: 'pincel redondo nº3'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_355:
+    nombre: 'pincel redondo nº2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_356:
+    nombre: 'pincel redondo nº1'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '390'
+  Producto_357:
+    nombre: 'tiza sastre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_358:
+    nombre: 'correa para maquina chica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '750'
+  Producto_359:
+    nombre: 'balerina lycra blanca'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_360:
+    nombre: 'rollito de cinta 10 metros'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '200'
+  Producto_361:
+    nombre: 'rrollito de conta 10 metros 07'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_362:
+    nombre: 'cinta pelo'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '80'
+  Producto_363:
+    nombre: 'cinta bebe'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_364:
+    nombre: 'cinta nº07'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '120'
+  Producto_365:
+    nombre: 'cinta nº 2'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '150'
+  Producto_366:
+    nombre: 'cinta nº 3'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '190'
+  Producto_367:
+    nombre: 'cinta nº 5'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '280'
+  Producto_368:
+    nombre: 'cinta nº8'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '380'
+  Producto_369:
+    nombre: 'cinta nº 12'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '550'
+  Producto_370:
+    nombre: 'cinta de gasa pelo'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '50'
+  Producto_371:
+    nombre: 'cinta gasa nº1'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_372:
+    nombre: 'cinta de gasa nº2'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '170'
+  Producto_373:
+    nombre: 'cinta de gasa nº3'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '270'
+  Producto_374:
+    nombre: 'cinta terciopelo nº1'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '280'
+  Producto_375:
+    nombre: 'pintura camuflaje tubo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_376:
+    nombre: ' pintura set memetizado'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4850'
+  Producto_377:
+    nombre: 'chinche 50 uni'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_378:
+    nombre: 'corchete 100 unidades'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '280'
+  Producto_379:
+    nombre: 'corchete 5000 unidades'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '680'
+  Producto_380:
+    nombre: destacadores
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_381:
+    nombre: encendedores
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_382:
+    nombre: 'velas colores'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_383:
+    nombre: 'anillos bautizos grande par'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '60'
+  Producto_384:
+    nombre: 'anillos bautizo chicos par'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_385:
+    nombre: 'flores besitos docena'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '400'
+  Producto_386:
+    nombre: 'malla tomate'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_387:
+    nombre: 'pintura plaid dimensional'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1680'
+  Producto_388:
+    nombre: 'caja joyas chica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_389:
+    nombre: 'cajita suvenir'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_390:
+    nombre: 'guantes dama pelo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2000'
+  Producto_391:
+    nombre: 'paño lenci'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1800'
+  Producto_392:
+    nombre: 'paño lenci pliego'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_393:
+    nombre: 'quita esmalte'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_394:
+    nombre: 'pestañas postizas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_395:
+    nombre: 'aros perla blanca'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_396:
+    nombre: 'bombilla mate'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1800'
+  Producto_397:
+    nombre: 'corta uñas chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '590'
+  Producto_398:
+    nombre: 'corta uñas grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_399:
+    nombre: 'set utencilio  cocina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_400:
+    nombre: 'bananos chicos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '200'
+  Producto_401:
+    nombre: 'bananos medianos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_402:
+    nombre: 'bananos grandes'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_403:
+    nombre: 'chapes simples par'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_404:
+    nombre: 'chapes diseños par'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_405:
+    nombre: 'bolsa orquillas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_406:
+    nombre: 'paquete pinches negros'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_407:
+    nombre: 'pinche tomate carey'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_408:
+    nombre: 'traba carey'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_409:
+    nombre: 'traba chaleco madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_410:
+    nombre: 'palillos pelo carey'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_411:
+    nombre: 'agujas para ciego unidad'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_412:
+    nombre: 'agujas bordar unidad'
+    unidad: centrimetro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_413:
+    nombre: navetas
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '950'
+  Producto_414:
+    nombre: palestina
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_415:
+    nombre: 'tarjeta invitacion bautizo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_416:
+    nombre: 'colet plush'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_417:
+    nombre: 'colet ligas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_418:
+    nombre: 'esmaltes '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_419:
+    nombre: 'pinches fashion peinados'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_420:
+    nombre: cosmetiquero
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '900'
+  Producto_421:
+    nombre: 'pinzas cejas plateadas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_422:
+    nombre: 'pinzas cejas negras'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_423:
+    nombre: 'alicate uñas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3800'
+  Producto_424:
+    nombre: 'lima uñas carton'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_425:
+    nombre: espejo
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_426:
+    nombre: 'saca dureza lata'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_427:
+    nombre: 'pinzas metalicas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '630'
+  Producto_428:
+    nombre: 'encrespador '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '490'
+  Producto_429:
+    nombre: 'corta hilacha'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '890'
+  Producto_430:
+    nombre: 'lentes '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3000'
+  Producto_431:
+    nombre: 'estuche lapices'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '400'
+  Producto_432:
+    nombre: 'peinetas la argentina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_433:
+    nombre: 'sabana 11/2 plaza'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '10500'
+  Producto_434:
+    nombre: 'rosario plastico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_435:
+    nombre: 'rosario madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_436:
+    nombre: 'rosario perla'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2400'
+  Producto_437:
+    nombre: 'cruz madera'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '200'
+  Producto_438:
+    nombre: 'guantes blancos niños'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_439:
+    nombre: 'guantes blancos adulto'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1400'
+  Producto_440:
+    nombre: 'guante blanco encaje '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3400'
+  Producto_441:
+    nombre: 'cinturon niño'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_442:
+    nombre: marietas
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_443:
+    nombre: 'perforadora diseño'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2400'
+  Producto_444:
+    nombre: 'esterilla marcada bordar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '850'
+  Producto_445:
+    nombre: 'labial niña'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_446:
+    nombre: 'toalla algodon 50x55'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_447:
+    nombre: 'toalla algodon 60x100'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2400'
+  Producto_448:
+    nombre: 'juego de toallas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6800'
+  Producto_449:
+    nombre: 'toallon de baño 90x160'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6800'
+  Producto_450:
+    nombre: carros
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '450'
+  Producto_451:
+    nombre: 'palillos bambu nº 12'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_452:
+    nombre: 'palillos bambu nº 11'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '950'
+  Producto_453:
+    nombre: 'palillos bambu nº10'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '900'
+  Producto_454:
+    nombre: 'palillos bambu nº9'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '890'
+  Producto_455:
+    nombre: 'palillos bambu nº8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '850'
+  Producto_456:
+    nombre: 'palillos bambu nº 7'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_457:
+    nombre: 'palillos madera nº 2,5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '540'
+  Producto_458:
+    nombre: 'palillos madera nº 3'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '540'
+  Producto_459:
+    nombre: 'palillos madera nº 4,5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_460:
+    nombre: 'palillos madera nº 5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '650'
+  Producto_461:
+    nombre: 'palillos madera nº 6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '650'
+  Producto_462:
+    nombre: 'palillos madera nº 8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '700'
+  Producto_463:
+    nombre: 'palillos metal nº 9'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1690'
+  Producto_464:
+    nombre: 'palillos metal nº 8'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1600'
+  Producto_465:
+    nombre: 'palillo metal nº 6'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1400'
+  Producto_466:
+    nombre: 'palillo metal nº 5 1/2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_467:
+    nombre: 'palillo metal nº 5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1450'
+  Producto_468:
+    nombre: 'palillo metal nº 4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1440'
+  Producto_469:
+    nombre: 'palillo metal n º 3 1/2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_470:
+    nombre: 'palillo metal nº 3'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '690'
+  Producto_471:
+    nombre: 'cuellos polar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_472:
+    nombre: 'palillos reumaticos nº 2 1/2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_473:
+    nombre: 'palillos reumaticos nº 3'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_474:
+    nombre: 'palillos para calcetin'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1350'
+  Producto_475:
+    nombre: 'vela bautizo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_476:
+    nombre: 'cinta bautizo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_477:
+    nombre: 'pedestal bautizo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '400'
+  Producto_478:
+    nombre: 'flores artificiales'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '80'
+  Producto_479:
+    nombre: 'base llavero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_480:
+    nombre: 'ramo novia para tirar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3600'
+  Producto_481:
+    nombre: 'ramo novia'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '7900'
+  Producto_482:
+    nombre: 'capa bautizo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '5900'
+  Producto_483:
+    nombre: 'oleo paste'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '580'
+  Producto_484:
+    nombre: 'hadas ceramica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_485:
+    nombre: 'tijeras mundial profesional'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '12800'
+  Producto_486:
+    nombre: 'monedero con carita'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_487:
+    nombre: 'huincha medir'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_488:
+    nombre: 'monitos ceramica chicos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_489:
+    nombre: 'flores tela'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '120'
+  Producto_490:
+    nombre: 'sisal de choclo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_491:
+    nombre: 'cuartillos simples docena'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3500'
+  Producto_492:
+    nombre: 'cuartillo cisne docena'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6500'
+  Producto_493:
+    nombre: 'falda invierno'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '8500'
+  Producto_494:
+    nombre: 'chaleco sin manga hombre o mujer'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6500'
+  Producto_495:
+    nombre: chombas
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '12500'
+  Producto_496:
+    nombre: 'chaleco mujer con mangas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '12500'
+  Producto_497:
+    nombre: 'falda rayada abierta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '9500'
+  Producto_498:
+    nombre: 'pintura dimensional'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1580'
+  Producto_499:
+    nombre: 'alicate cortante bisituria'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2200'
+  Producto_500:
+    nombre: 'alicate con punta joyas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2200'
+  Producto_501:
+    nombre: 'mezcladores posillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '120'
+  Producto_502:
+    nombre: 'pañuelo mujer cuello'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_503:
+    nombre: 'pelota pin pon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_504:
+    nombre: 'valas cumpleaño'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_505:
+    nombre: 'tijera mosdista profesional'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '21900'
+  Producto_506:
+    nombre: 'cordones par'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '490'
+  Producto_507:
+    nombre: 'bolso compras frutilla'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_508:
+    nombre: 'rollitos lana '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_509:
+    nombre: 'bolsa regalo grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_510:
+    nombre: 'bolsa regalo chica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_511:
+    nombre: 'cupula torta bautizo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3050'
+  Producto_512:
+    nombre: 'cupula torta bautizo niño globos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1750'
+  Producto_513:
+    nombre: 'cupula torta bautizo simple'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1890'
+  Producto_514:
+    nombre: 'cupula torta novios corazon plastico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4920'
+  Producto_515:
+    nombre: 'cupula torta novio corazon cinta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3900'
+  Producto_516:
+    nombre: 'cupula torta novios alambre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3200'
+  Producto_517:
+    nombre: 'novios para torta grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1690'
+  Producto_518:
+    nombre: 'novios para torta mediano'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1390'
+  Producto_519:
+    nombre: 'novios para torta chicos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1000'
+  Producto_520:
+    nombre: 'caja adorno floral-corazon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '800'
+  Producto_521:
+    nombre: 'corazones feliz bautismo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_522:
+    nombre: 'mamadera cuartillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_523:
+    nombre: 'tete cuartillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_524:
+    nombre: 'cordon por metro'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_525:
+    nombre: 'coronas bautizo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1960'
+  Producto_526:
+    nombre: 'zapatito cuartillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_527:
+    nombre: 'corona reina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3700'
+  Producto_528:
+    nombre: 'cinturones hebilla grande hombre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2800'
+  Producto_529:
+    nombre: 'lazo para saltar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '890'
+  Producto_530:
+    nombre: 'muñequito goma bebe'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_531:
+    nombre: 'malla pelo para cocinar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_532:
+    nombre: creda
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '490'
+  Producto_533:
+    nombre: 'pliego papel regalo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_534:
+    nombre: 'corbatas caballero'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2800'
+  Producto_535:
+    nombre: 'corbata colegio'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '2800'
+  Producto_536:
+    nombre: gafas
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3000'
+  Producto_537:
+    nombre: 'palillo para pelo carey'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '750'
+  Producto_538:
+    nombre: 'piche carey '
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_539:
+    nombre: 'piojito con brillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_540:
+    nombre: 'sombrero fiesta cotillon'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '600'
+  Producto_541:
+    nombre: naipes
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '750'
+  Producto_542:
+    nombre: antifaz
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_543:
+    nombre: 'dedal goma'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_544:
+    nombre: ventosas
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_545:
+    nombre: 'sobre agujas con dedal'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_546:
+    nombre: 'alargador de sosten'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_547:
+    nombre: 'macho - hembra grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_548:
+    nombre: 'tira cortina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_549:
+    nombre: 'nido abeja'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '420'
+  Producto_550:
+    nombre: 'tira refuerzo ancha'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '980'
+  Producto_551:
+    nombre: 'tira refuerzo 4,5'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '450'
+  Producto_552:
+    nombre: 'tira refuerzo 3cm'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '350'
+  Producto_553:
+    nombre: 'gancho aro + bastago'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_554:
+    nombre: 'papel choclo chico'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_555:
+    nombre: 'moneda dorada metal'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '30'
+  Producto_556:
+    nombre: 'moneda plateada metal'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '30'
+  Producto_557:
+    nombre: 'monedas plasticas con brillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '10'
+  Producto_558:
+    nombre: 'ojos chicos 0,5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '60'
+  Producto_559:
+    nombre: 'ojos nº 1'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '80'
+  Producto_560:
+    nombre: 'ojos nº 2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_561:
+    nombre: 'ojos nº 3'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '110'
+  Producto_562:
+    nombre: 'ojos nº 4'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '120'
+  Producto_563:
+    nombre: 'ojos nº 5'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_564:
+    nombre: 'crucifijo metal'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_565:
+    nombre: 'crucifijo plastico con metal'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '200'
+  Producto_566:
+    nombre: 'broche collar'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_567:
+    nombre: 'cruces chicas'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_568:
+    nombre: 'estrella metal con pinche'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_569:
+    nombre: 'ojo gato'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_570:
+    nombre: 'ojo vidrio par'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_571:
+    nombre: 'ojo vidrio'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '240'
+  Producto_572:
+    nombre: nariz
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_573:
+    nombre: boca
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_574:
+    nombre: 'tirador de cierre'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_575:
+    nombre: 'clavo tapiceria'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '10'
+  Producto_576:
+    nombre: 'vela torneada'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_577:
+    nombre: 'lentejuela por metro'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '180'
+  Producto_578:
+    nombre: 'cono hilo overlook'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '990'
+  Producto_579:
+    nombre: 'frasada 2 1/2'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '9300'
+  Producto_580:
+    nombre: 'cinta navideña ancha'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '490'
+  Producto_581:
+    nombre: 'alambre navideño forrado'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '50'
+  Producto_582:
+    nombre: 'cinta cola de raton '
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_583:
+    nombre: 'hilo cono cocer'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_584:
+    nombre: 'hilo crochet blanco'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '490'
+  Producto_585:
+    nombre: 'hilo arbolito 100gr'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1100'
+  Producto_586:
+    nombre: 'cono doñihue 150gr'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1600'
+  Producto_587:
+    nombre: 'cono doñihue 400gr'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '3600'
+  Producto_588:
+    nombre: 'hilo bordar madeja'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '150'
+  Producto_589:
+    nombre: 'paño lency'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '1800'
+  Producto_590:
+    nombre: 'hilo economico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_591:
+    nombre: 'pintura ojos'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1200'
+  Producto_592:
+    nombre: clips
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '480'
+  Producto_593:
+    nombre: 'cartera sobre fiesta'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '6900'
+  Producto_594:
+    nombre: 'calcetin con blonda'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '500'
+  Producto_595:
+    nombre: 'flor rococo grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_596:
+    nombre: 'flor rococo chica'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '50'
+  Producto_597:
+    nombre: 'espejo grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1500'
+  Producto_598:
+    nombre: 'hilo tapiceria'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '890'
+  Producto_599:
+    nombre: 'hilo isafil'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1900'
+  Producto_600:
+    nombre: 'hilo dorado'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '100'
+  Producto_601:
+    nombre: 'botones abrigo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_602:
+    nombre: 'botones madera coco'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_603:
+    nombre: 'botones madera redondo grande'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '300'
+  Producto_604:
+    nombre: 'botones madera chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_605:
+    nombre: 'botones barril chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '250'
+  Producto_606:
+    nombre: 'boton figura'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '100'
+  Producto_607:
+    nombre: 'hilo macrame'
+    unidad: metro
+    precio_compra: null
+    precio_venta: '50'
+  Producto_608:
+    nombre: 'marco foto chico'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1400'
+  Producto_609:
+    nombre: 'banda reina'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '4600'
+  Producto_610:
+    nombre: 'calco amarillo'
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '180'
+  Producto_611:
+    nombre: linterna
+    unidad: unidad
+    precio_compra: null
+    precio_venta: '1690'
+sfGuardRememberKey:
+  sfGuardRememberKey_1:
+    User: sfGuardUser_1
+    remember_key: 2a3xy62bvjtwk0cs480cc0cckwoco84
+    ip_address: 200.42.168.223
+    created_at: '2011-06-08 17:11:03'
+    updated_at: '2011-06-08 17:11:03'
+sfGuardUser:
+  sfGuardUser_1:
+    first_name: olga
+    last_name: salgado
+    email_address: olgasalgado.v@gmail.com
+    username: olgasalgado
+    algorithm: sha1
+    salt: '15148'
+    password: 9a05fa418090c20818ce0d11fb28cb70bbb53dbd
+    is_active: true
+    is_super_admin: true
+    last_login: '2011-06-21 11:15:46'
+    created_at: '2011-06-04 17:31:43'
+    updated_at: '2011-06-21 11:15:46'
